@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Titanic Survival Prediction</title>
+ 
   </head>
   <body>
     <h1>Titanic Survival Prediction Model</h1>
